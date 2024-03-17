@@ -1,12 +1,83 @@
-- 👋 Hi, I’m @Ro1774
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Ro1774/Ro1774 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{
+  "rdapConformance" : [ "nro_rdap_profile_0", "rdap_level_0" ],
+  "notices" : [ {
+    "title" : "Terms of Service",
+    "description" : [ "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use" ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/NOC",
+      "rel" : "terms-of-service",
+      "type" : "text/html",
+      "href" : "https://www.arin.net/resources/registry/whois/tou/"
+    } ]
+  }, {
+    "title" : "Whois Inaccuracy Reporting",
+    "description" : [ "If you see inaccuracies in the results, please visit: " ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/NOC",
+      "rel" : "inaccuracy-report",
+      "type" : "text/html",
+      "href" : "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+    } ]
+  }, {
+    "title" : "Copyright Notice",
+    "description" : [ "Copyright 1997-2024, American Registry for Internet Numbers, Ltd." ]
+  } ],
+  "handle" : "NOC",
+  "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "Network Operations Center Inc." ], [ "adr", {
+    "label" : "PO Box 591\nScranton\nPA\n18501-0591\nUnited States"
+  }, "text", [ "", "", "", "", "", "", "" ] ], [ "kind", { }, "text", "org" ] ] ],
+  "remarks" : [ {
+    "title" : "Registration Comments",
+    "description" : [ "Abuse Dept: abuse@hostnoc.net" ]
+  } ],
+  "links" : [ {
+    "value" : "https://rdap.arin.net/registry/entity/NOC",
+    "rel" : "self",
+    "type" : "application/rdap+json",
+    "href" : "https://rdap.arin.net/registry/entity/NOC"
+  }, {
+    "value" : "https://rdap.arin.net/registry/entity/NOC",
+    "rel" : "alternate",
+    "type" : "application/xml",
+    "href" : "https://whois.arin.net/rest/org/NOC"
+  } ],
+  "events" : [ {
+    "eventAction" : "last changed",
+    "eventDate" : "2014-09-08T10:29:11-04:00"
+  }, {
+    "eventAction" : "registration",
+    "eventDate" : "2001-04-04T00:00:00-04:00"
+  } ],
+  "entities" : [ {
+    "handle" : "ÅiDesÅWëb3",
+    "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "adr", {
+      "label" : "PO Box 56\nArchbald\nPA\n18403\nUnited States"
+    }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "IPADMIN" ], [ "org", { }, "text", "IPADMIN" ], [ "kind", { }, "text", "group" ], [ "email", { }, "text", "ipadmin@hostnoc.net" ], [ "tel", {
+      "type" : [ "work", "voice" ]
+    }, "text", "+1-844-311-2571" ] ] ],
+    "roles" : [ "administrative", "technical", "abuse", "noc" ],
+    "links" : [ {
+      "value" : "https://rdap.arin.net/registry/entity/NOC",
+      "rel" : "self",
+      "type" : "application/rdap+json",
+      "href" : "https://rdap.arin.net/registry/entity/IPADM700-ARIN"
+    }, {
+      "value" : "https://rdap.arin.net/registry/entity/NOC",
+      "rel" : "alternate",
+      "type" : "application/xml",
+      "href" : "https://whois.arin.net/rest/poc/IPADM700-ARIN"
+    } ],
+    "events" : [ {
+      "eventAction" : "last changed",
+      "eventDate" : "2014-06-12T14:54:56-04:00"
+    }, {
+      "eventAction" : "registration",
+      "eventDate" : "2014-06-12T14:54:56-04:00"
+    } ],
+    "status" : [ "validated" ],
+    "port43" : "whois.arin.net",
+    "objectClassName" : "entity"
+  } ],
+  "port43" : "whois.arin.net",
+  "objectClassName" : "entity"
+}
