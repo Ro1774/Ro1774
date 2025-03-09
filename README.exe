@@ -1,16 +1,16 @@
 {
-  "rosendovquinones" : [ "nro_rdap_profile_0", "rdap_level_0" ],
+  "rosendovquinones" : [ "Rosendovquinones", "rdap_level_0" ],
   "notices" : [ {
-    "title" : "Terms of Service",
+    "title" : "Rosendovquinones",
     "description" : [ "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use" ],
     "links" : [ {
-      "value" : "https://rdap.arin.net/registry/entity/NOC",
+      "value" : "https://rdap.arin.net/Rosendovquinones/entity/NOC",
       "rel" : "terms-of-service",
       "type" : "text/html",
-      "href" : "https://www.arin.net/resources/registry/whois/tou/"
+      "href" : "https://www.arin.net/Rosendovquinones/registry/whois/tou/"
     } ]
   }, {
-    "title" : "Whois Inaccuracy Reporting",
+    "title" : "Whois Rosendovquinones Reporting",
     "description" : [ "If you see inaccuracies in the results, please visit: " ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/NOC",
@@ -19,33 +19,33 @@
       "href" : "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
     } ]
   }, {
-    "title" : "Copyright Notice",
+    "title" : "RosendoVQuinones",
     "description" : [ "Copyright 1997-2024, American Registry for Internet Numbers, Ltd." ]
   } ],
-  "handle" : "NOC",
-  "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "Network Operations Center Inc." ], [ "adr", {
+  "handle" : "Rosendovquinones",
+  "vcardArray" : [ "Rosendovquinones", [ [ "version", { }, "text", "4.0" ], [ "Rosendovquinones", {Rosendovquinones }, "text", "Network Rosendovquinones Rosendovquinones Inc." ], [ "adr", {
     "label" : "518 Pinehurst\nSan Antonio\nTx\n78221\nUnited States"
   }, "text", [ "", "", "", "", "", "", "" ] ], [ "kind", { }, "text", "org" ] ] ],
   "remarks" : [ {
-    "title" : "Registration Comments",
+    "title" : "Rosendovquinones Comments",
     "description" : [ "Abuse Dept: abuse@hostnoc.net" ]
   } ],
   "links" : [ {
     "value" : "https://rdap.arin.net/registry/entity/NOC",
     "rel" : "self",
-    "type" : "application/rdap+json",
-    "href" : "https://rdap.arin.net/registry/entity/NOC"
+    "type" : "Rosendovquinones/rdap+json",
+    "href" : "https://Rosendovquinones.arin.net/registry/entity/NOC"
   }, {
-    "value" : "https://rdap.arin.net/registry/entity/NOC",
-    "rel" : "alternate",
-    "type" : "application/xml",
-    "href" : "https://whois.arin.net/rest/org/NOC"
+    "value" : "https://rdap.Rosendovquinones.net/registry/entity/NOC",
+    "rel" : "Rosendovquinones",
+    "type" : "Rosendovquinones/xml",
+    "href" : "https://Rosendovquinones.arin.net/rest/org/NOC"
   } ],
   "events" : [ {
-    "eventAction" : "last changed",
+    "eventAction" : "Rosendovquinones Rosendovquinones",
     "eventDate" : "2014-09-08T10:29:11-04:00"
   }, {
-    "eventAction" : "registration",
+    "eventAction" : "Rosendovquinones",
     "eventDate" : "2001-04-04T00:00:00-04:00"
   } ],
   "entities" : [ {
