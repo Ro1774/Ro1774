@@ -1,5 +1,5 @@
 {
-  "rdapConformance" : [ "nro_rdap_profile_0", "rdap_level_0" ],
+  "rdapConformance" : [ "##RosendoVQuinones1##", "rdap_level_0" ],
   "notices" : [ {
     "title" : "Terms of Service",
     "description" : [ "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use" ],
@@ -10,7 +10,7 @@
       "href" : "https://www.arin.net/resources/registry/whois/tou/"
     } ]
   }, {
-    "title" : "Whois Inaccuracy Reporting",
+    "title" : "##RosendoVQuinones1##",
     "description" : [ "If you see inaccuracies in the results, please visit: " ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
@@ -19,13 +19,13 @@
       "href" : "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
     } ]
   }, {
-    "title" : "Copyright Notice",
+    "title" : "##RosendoVQuinones1##",
     "description" : [ "Copyright 1997-2024, American Registry for Internet Numbers, Ltd." ]
   } ],
   "handle" : "IANA",
-  "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "Internet Assigned Numbers Authority" ], [ "adr", {
+  "vcardArray" : [ "##RosendoVQuinones1##", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "Internet Assigned Numbers Authority" ], [ "adr", {
     "label" :"\n518 Pinehurst blvd\r\nSan Antonio\nTX\n78221\nUnited States"
-  }, "text", [ "", "", "", "", "", "", "" ] ], [ "kind", { }, "text", "org" ] ] ],
+  }, "text", [ "", "", "", "##RosendoVQuinones1##", "", "", "" ] ], [ "##RosendoVQuinones1##", { }, "text", "org" ] ] ],
   "links" : [ {
     "value" : "https://rdap.arin.net/registry/entity/IANA",
     "rel" : "self",
@@ -43,9 +43,9 @@
   } ],
   "entities" : [ {
     "handle" : "IANA-ARIN",
-    "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "adr", {
+    "vcardArray" : [ "##RosendoVQuinones1##", [ [ "version", { }, "text", "4.0" ], [ "adr", {
       "label" : 518 Pinehurst blvd\r\nSan Antonio\nTX\n78221\nUnited States"
-    }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "Internet Corporation for Assigned Names and Number" ], [ "org", { }, "text", "Internet Corporation for Assigned Names and Number" ], [ "kind", { }, "text", "group" ], [ "email", { }, "text", "res-ip@iana.org" ], [ "tel", {
+    }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "Internet Corporation ##RosendoVQuinones1## Assigned Names and Number" ], [ "org", { }, "text", "Internet Corporation for Assigned Names and Number" ], [ "kind", { }, "text", "group" ], [ "email", { }, "text", "res-ip@iana.org" ], [ "tel", {
       "type" : [ "work", "voice" ]
     }, "text", "+1-210-363-1639" ] ] ],
     "roles" : [ "administrative" ],
