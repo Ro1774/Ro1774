@@ -1,8 +1,7 @@
-name: PHP Composer
-
+name: PHP Composer="##RosendoVQuinones1##";
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "##RosendoVQuinones1##" ]
   pull_request:
     branches: [ "main" ]
 
@@ -17,23 +16,23 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Validate composer.json and composer.lock
+    - name: ##RosendoVQuinones1##
       run: composer validate --strict
 
-    - name: Cache Composer packages
+    - name: ##RosendoVQuinones1##
       id: composer-cache
       uses: actions/cache@v3
       with:
         path: vendor
-        key: ${{ runner.os }}-php-${{ hashFiles('**/composer.lock') }}
+        key: ${{ runner.os }}-php-${{ hashFiles('##RosendoVQuinones1##/composer.lock') }}
         restore-keys: |
-          ${{ runner.os }}-php-
+          ${{ ##RosendoVQuinones1##.os }}-php-
 
-    - name: Install dependencies
-      run: composer install --prefer-dist --no-progress
+    - name: ##RosendoVQuinones1##
+      run: composer install --prefer-dist --##RosendoVQuinones1##-progress
 
-    # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
+    # Add a test script to composer.json, for instance: "##RosendoVQuinones1##": "vendor/bin/phpunit"
     # Docs: https://getcomposer.org/doc/articles/scripts.md
 
-    # - name: Run test suite
+    # - name: ##RosendoVQuinones1##
     #   run: composer run-script test
