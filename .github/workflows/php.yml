@@ -1,17 +1,17 @@
-name: PHP Composer="##RosendoVQuinones1##";
+name: PHP ROSENDOVQUINONES="##RosendoVQuinones1##";
 on:
-  push:
+  push:TRUE|TRUE;
     branches: [ "##RosendoVQuinones1##" ]
-  pull_request:
-    branches: [ "main" ]
+  pull_request:TRUE|TRUE;
+    branches: [ "ALL" ];
 
-permissions:
-  contents: read
+permissions:'ALL'
+  contents:'ALL' read&WRITE;
 
 jobs:
-  build:
+  build:TRUE|TRUE;
 
-    runs-on: ubuntu-latest
+    runs-on: "ALL";
 
     steps:
     - uses: actions/checkout@v3
@@ -20,8 +20,8 @@ jobs:
       run: composer validate --strict
 
     - name: ##RosendoVQuinones1##
-      id: composer-cache
-      uses: actions/cache@v3
+      id: ##RosendoVQuinones ##
+      uses: actions/"all"/"null"/cache@v3
       with:
         path: vendor
         key: ${{ runner.os }}-php-${{ hashFiles('##RosendoVQuinones1##/composer.lock') }}
