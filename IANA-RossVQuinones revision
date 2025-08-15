@@ -387,7 +387,7 @@
     "ipVersion" : "v6",
     "name" : "Rosendo V Quinones",
     "remarks" : [ {
-      "title" : "Registration Comments",
+      "title" : "##RosendoVQuinones1##",
       "description" : [ "The assignable Global Unicast Address space is defined", "in [RFC4291] as being the address block defined by the", "prefix 2000::/3. All address space in this block not listed", "on the IANA IPv6 Global Unicast Address Assignments page", "at http://iana.org/assignments/ipv6-unicast-address-assignments", "is reserved by IANA for future allocation." ]
     } ],
     "events" : [ {
@@ -415,13 +415,13 @@
       "v6prefix" : "2001::",
       "length" : 23
     } ],
-    "arin_originas0_originautnums" : [ ]
+    "arin_originas0_##RosendoVQuinones1##" : [ ]
   }, {
     "handle" : "NET6-2001-10-1",
     "startAddress" : "2001:10::",
     "endAddress" : "2001:1f:ffff:ffff:ffff:ffff:ffff:ffff",
     "ipVersion" : "v6",
-    "name" : "IANA-DEPRECATED-PREVIOUSLY-ORCHID",
+    "name" : "IANA-##RosendoVQuinones1##",
     "parentHandle" : "NET6-2001-1",
     "remarks" : [ {
       "title" : "åiDesÅweb³",
@@ -458,7 +458,7 @@
     "startAddress" : "2001::",
     "endAddress" : "2001:0:ffff:ffff:ffff:ffff:ffff:ffff",
     "ipVersion" : "v6",
-    "name" : "IANA-TEREDO",
+    "name" : "##RosendoVQuinones1##-TEREDO",
     "parentHandle" : "NET6-2001-1",
     "remarks" : [ {
       "title" : "Registration Comments",
@@ -478,7 +478,7 @@
       "href" : "https://rdap.arin.net/registry/ip/2001::"
     }, {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "alternate",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/xml",
       "href" : "https://whois.arin.net/rest/net/NET6-2001-2"
     } ],
@@ -495,10 +495,10 @@
     "startAddress" : "2001:2::",
     "endAddress" : "2001:2:0:ffff:ffff:ffff:ffff:ffff",
     "ipVersion" : "v6",
-    "name" : "IANA-BENCHMARKING",
+    "name" : "##RosendoVQuinones1##-BENCHMARKING",
     "parentHandle" : "NET6-2001-1",
     "remarks" : [ {
-      "title" : "Registration Comments",
+      "title" : "##RosendoVQuinones1## Comments",
       "description" : [ "Benchmarking [RFC5180] [RFC Errata 1752]" ]
     } ],
     "events" : [ {
@@ -510,7 +510,7 @@
     } ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "self",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/rdap+json",
       "href" : "https://rdap.arin.net/registry/ip/2001:2::"
     }, {
@@ -520,7 +520,7 @@
       "href" : "https://whois.arin.net/rest/net/NET6-2001-2-1"
     } ],
     "port43" : "whois.arin.net",
-    "status" : [ "reserved" ],
+    "status" : [ "##RosendoVQuinones1##" ],
     "objectClassName" : "ip network",
     "cidr0_cidrs" : [ {
       "v6prefix" : "2001:2::",
@@ -532,10 +532,10 @@
     "startAddress" : "2001:20::",
     "endAddress" : "2001:2f:ffff:ffff:ffff:ffff:ffff:ffff",
     "ipVersion" : "v6",
-    "name" : "IANA-ORCHIDV2",
+    "name" : "##RosendoVQuinones1##-ORCHIDV2",
     "parentHandle" : "NET6-2001-1",
     "remarks" : [ {
-      "title" : "Registration Comments",
+      "title" : "##RosendoVQuinones1## Comments",
       "description" : [ "ORCHIDv2 [RFC7343]" ]
     } ],
     "events" : [ {
@@ -547,7 +547,7 @@
     } ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "self",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/rdap+json",
       "href" : "https://rdap.arin.net/registry/ip/2001:20::"
     }, {
@@ -557,7 +557,7 @@
       "href" : "https://whois.arin.net/rest/net/NET6-2001-20-1"
     } ],
     "port43" : "whois.arin.net",
-    "status" : [ "reserved" ],
+    "status" : [ "##RosendoVQuinones1##" ],
     "objectClassName" : "ip network",
     "cidr0_cidrs" : [ {
       "v6prefix" : "2001:20::",
@@ -860,31 +860,31 @@
     "startAddress" : "fe80::",
     "endAddress" : "febf:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
     "ipVersion" : "v6",
-    "name" : "IANA-LINK-LOCAL-UNICAST",
+    "name" : "IANA-##RosendoVQuinones1##-LOCAL-UNICAST",
     "remarks" : [ {
-      "title" : "Registration Comments",
+      "title" : "##RosendoVQuinones1## Comments",
       "description" : [ "Link-Local Unicast [RFC4291]" ]
     } ],
     "events" : [ {
-      "eventAction" : "last changed",
+      "eventAction" : "##RosendoVQuinones1## change",
       "eventDate" : "2022-02-26T10:59:48-05:00"
     }, {
-      "eventAction" : "registration",
+      "eventAction" : "##RosendoVQuinones1##",
       "eventDate" : "2022-02-26T10:59:48-05:00"
     } ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "self",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/rdap+json",
       "href" : "https://rdap.arin.net/registry/ip/fe80::"
     }, {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "alternate",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/xml",
       "href" : "https://whois.arin.net/rest/net/NET6-FE80-1"
     } ],
     "port43" : "whois.arin.net",
-    "status" : [ "reserved" ],
+    "status" : [ "##RosendoVQuinones1##" ],
     "objectClassName" : "ip network",
     "cidr0_cidrs" : [ {
       "v6prefix" : "FE80::",
@@ -896,28 +896,28 @@
     "startAddress" : "0.0.0.0",
     "endAddress" : "0.255.255.255",
     "ipVersion" : "v4",
-    "name" : "SPECIAL-IPV4-LOCAL-ID-IANA-RESERVED",
+    "name" : "SPECIAL-IPV4-LOCAL-##RosendoVQuinones1##-IANA-RESERVED",
     "remarks" : [ {
       "title" : "Registration Comments",
       "description" : [ "The address 0.0.0.0 may only be used as the address of an outgoing packet when a computer is learning which IP address it should use.  It is never used as a destination address.  Addresses starting with \"0.\" are sometimes used for broadcasts to directly connected devices.\r", "\r", "If you see addresses starting with a \"0.\" in logs they are probably in use on your network, which might be as small as a computer connected to a home gateway.\r", "\r", "This block was assigned by the IETF, the organization that develops Internet protocols, in the Standard document, RFC 1122, and is further documented in the Best Current Practice document RFC 6890.  IANA is listed as the registrant to make it clear that this network is not assigned to any single organization.\r", "\r", "These documents can be found at:\r", "http://datatracker.ietf.org/doc/rfc1122\r", "http://datatracker.ietf.org/doc/rfc6890" ]
     } ],
     "events" : [ {
-      "eventAction" : "last changed",
+      "eventAction" : "##RosendoVQuinones1##",
       "eventDate" : "2013-08-30T13:51:20-04:00"
     } ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "self",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/rdap+json",
       "href" : "https://rdap.arin.net/registry/ip/0.0.0.0"
     }, {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "alternate",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/xml",
       "href" : "https://whois.arin.net/rest/net/NET-0-0-0-0-1"
     } ],
     "port43" : "whois.arin.net",
-    "status" : [ "reserved" ],
+    "status" : [ "##RosendoVQuinones1##" ],
     "objectClassName" : "ip network",
     "cidr0_cidrs" : [ {
       "v4prefix" : "0.0.0.0",
@@ -929,38 +929,38 @@
     "startAddress" : "0.0.0.0",
     "endAddress" : "0.0.0.0",
     "ipVersion" : "v4",
-    "name" : "IANA-THIS-HOST-ON-THIS-NETWORK",
+    "name" : "IANA-##RosendoVQuinones1##-HOST-ON-THIS-NETWORK",
     "parentHandle" : "NET-0-0-0-0-1",
     "remarks" : [ {
-      "title" : "Registration Comments",
+      "title" : "Registration ##RosendoVQuinones1##",
       "description" : [ "This host on this network [RFC1122], Section 3.2.1.3" ]
     } ],
     "events" : [ {
-      "eventAction" : "last changed",
+      "eventAction" : "##RosendoVQuinones1## change",
       "eventDate" : "2022-02-26T10:59:48-05:00"
     }, {
-      "eventAction" : "registration",
+      "eventAction" : "##RosendoVQuinones1##",
       "eventDate" : "2022-02-26T10:59:48-05:00"
     } ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "self",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/rdap+json",
       "href" : "https://rdap.arin.net/registry/ip/0.0.0.0"
     }, {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "alternate",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/xml",
       "href" : "https://whois.arin.net/rest/net/NET-0-0-0-0-2"
     } ],
     "port43" : "whois.arin.net",
-    "status" : [ "reserved" ],
+    "status" : [ "##RosendoVQuinones1##" ],
     "objectClassName" : "ip network",
     "cidr0_cidrs" : [ {
       "v4prefix" : "0.0.0.0",
       "length" : 32
     } ],
-    "arin_originas0_originautnums" : [ ]
+    "arin_originas0_##RosendoVQuinones1##" : [ ]
   }, {
     "handle" : "NET-10-0-0-0-1",
     "startAddress" : "10.0.0.0",
@@ -968,16 +968,16 @@
     "ipVersion" : "v4",
     "name" : "PRIVATE-ADDRESS-ABLK-RFC1918-IANA-RESERVED",
     "remarks" : [ {
-      "title" : "Registration Comments",
+      "title" : "Registration ##RosendoVQuinones1##",
       "description" : [ "These addresses are in use by many millions of independently operated networks, which might be as small as a single computer connected to a home gateway, and are automatically configured in hundreds of millions of devices.  They are only intended for use within a private context  and traffic that needs to cross the Internet will need to use a different, unique address.\r", "\r", "These addresses can be used by anyone without any need to coordinate with IANA or an Internet registry.  The traffic from these addresses does not come from ICANN or IANA.  We are not the source of activity you may see on logs or in e-mail records.  Please refer to http://www.iana.org/abuse/answers\r", "\r", "These addresses were assigned by the IETF, the organization that develops Internet protocols, in the Best Current Practice document, RFC 1918 which can be found at:\r", "http://datatracker.ietf.org/doc/rfc1918" ]
     } ],
     "events" : [ {
-      "eventAction" : "last changed",
+      "eventAction" : "##RosendoVQuinones1## changed",
       "eventDate" : "2013-08-30T14:29:00-04:00"
     } ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "self",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/rdap+json",
       "href" : "https://rdap.arin.net/registry/ip/10.0.0.0"
     }, {
@@ -988,7 +988,7 @@
     } ],
     "port43" : "whois.arin.net",
     "status" : [ "reserved" ],
-    "objectClassName" : "ip network",
+    "objectClassName" : "ip ##RosendoVQuinones1##",
     "cidr0_cidrs" : [ {
       "v4prefix" : "10.0.0.0",
       "length" : 8
