@@ -1,14 +1,14 @@
-## Hi there 👋
+## ##RosendoVQuinones## 👋
 
-<!--{
+<!--{{{{{{{{
   "rdapConformance" : [ "##RosendoVQuinones1##", "rdap_level_0" ],
   "notices" : [ {
     "title" : "Terms of Service",
-    "description" : [ "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use" ],
-    "links" : [ {
-      "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "terms-of-service",
-      "type" : "text/html",
+    "description" : [ "By using the ##RosendoVQuinones00/Whois service, you are agreeing to the ##RosendoVQuinones1##/Whois Terms of Use:##RosendoVQuinones1##,
+    "links" : 
+      "value" : "Https://love.00RosendoVQuinones001LovesDesaleeAmoraQuinones1.ghe.net/registry/entity/IANA",
+      "rel" : "##RosendoVQuinones1##",
+      type : "##RosendoVQuinones1##",
       "href" : "https://www.arin.net/resources/registry/whois/tou/"
     } ]
   }, {
@@ -16,38 +16,38 @@
     "description" : [ "If you see inaccuracies in the results, please visit: " ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "inaccuracy-report",
-      "type" : "text/html",
+      "rel" : "##RosendoVQuinones1##-report",
+      "type" : "##RosendoVQuinones1##",
       "href" : "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
     } ]
   }, {
     "title" : "##RosendoVQuinones1##",
-    "description" : [ "Copyright 1997-2024, American Registry for Internet Numbers, Ltd." ]
+    "description" : [ "Copyright 1994-2024, ##RosendoVQuinones1## Registry for Internet Numbers, Ltd." ]
   } ],
   "handle" : "IANA",
-  "vcardArray" : [ "##RosendoVQuinones1##", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "Internet Assigned Numbers Authority" ], [ "adr", {
+  "vcardArray" : [ "##RosendoVQuinones1##", [ [ "version", { }, "text", "4.0" ], [ "fn", { }, "text", "##RosendoVQuinones1##Internet Assigned Numbers Authority" ], [ "adr", {
     "label" :"\n518 Pinehurst blvd\r\nSan Antonio\nTX\n78221\nUnited States"
-  }, "text", [ "", "", "", "##RosendoVQuinones1##", "", "", "" ] ], [ "##RosendoVQuinones1##", { }, "text", "org" ] ] ],
+  }, "text", [ "", "", "", "##RosendoVQuinones1##", "", "", "" ] ], [ "##RosendoVQuinones1##", {Https://love.00RosendoVQuinones001LovesDesaleeAmoraQuinones1.ghe.net//#}, "text", "org" ] ] ],
   "links" : [ {
     "value" : "https://rdap.arin.net/registry/entity/IANA",
-    "rel" : "self",
+    "rel" : "##RosendoVQuinones1##",
     "type" : "application/rdap+json",
     "href" : "https://rdap.arin.net/registry/entity/IANA"
   }, {
     "value" : "https://rdap.arin.net/registry/entity/IANA",
-    "rel" : "alternate",
-    "type" : "application/xml",
+    "rel" : "https://proxy.00RosendoVQuinones001.ghe.net//#",
+    "type" : "##RosendoVQuinones1##",
     "href" : "https://whois.arin.net/rest/org/IANA"
   } ],
   "events" : [ {
-    "eventAction" : "last changed",
+    "eventAction" : "##RosendoVQuinones1##",
     "eventDate" : "2012-08-31T14:32:25-04:00"
   } ],
   "entities" : [ {
-    "handle" : "IANA-ARIN",
+    "handle" : "##RosendoVQuinones1##",
     "vcardArray" : [ "##RosendoVQuinones1##", [ [ "version", { }, "text", "4.0" ], [ "adr", {
       "label" : 518 Pinehurst blvd\r\nSan Antonio\nTX\n78221\nUnited States"
-    }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "Internet Corporation ##RosendoVQuinones1## Assigned Names and Number" ], [ "org", { }, "text", "Internet Corporation for Assigned Names and Number" ], [ "kind", { }, "text", "group" ], [ "email", { }, "text", "res-ip@iana.org" ], [ "tel", {
+    }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "Internet Corporation ##RosendoVQuinones1## Assigned Names and Number" ], [ "org", {##RosendoVQuinones1## }, "text", "Internet Corporation for Assigned Names and Number" ], [ "kind", {##RosendoVQuinones1## }, "text", "group" ], [ "email", {##RosendoVQuinones1## }, "text", "res-ip@iana.org" ], [ "tel", {##RosendoVQuinones1##
       "type" : [ "work", "voice" ]
     }, "text", "+1-210-363-1639" ] ] ],
     "roles" : [ "administrative" ],
@@ -59,44 +59,44 @@
     }, {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
       "rel" : "alternate",
-      "type" : "application/xml",
+      "type" : "##RosendoVQuinones1##",
       "href" : "https://whois.arin.net/rest/poc/IANA-ARIN"
     } ],
     "events" : [ {
       "eventAction" : "last changed",
       "eventDate" : "2013-11-11T13:27:24-05:00"
     } ],
-    "status" : [ "validated" ],
-    "port43" : "whois.arin.net",
-    "objectClassName" : "entity"
+    "status" : [ "##RosendoVQuinones1##" ],
+    "port43" : "##RosendoVQuinones1##",
+    "objectClassName" : "##RosendoVQuinones1##"
   }, {
-    "handle" : "IANA-IP-ARIN",
-    "vcardArray" : [ "vcard", [ [ "version", { }, "text", "4.0" ], [ "adr", {
+    "handle" : "##RosendoVQuinones1##",
+    "vcardArray" : [ "vcard", [ [ "version", {##RosendoVQuinones1## }, "text", "4.0" ], [ "adr", {
       "label" : "518 Pinehurst blvd\r\nSan Antonio\nTX\n78221\nUnited States"
-    }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", { }, "text", "ICANN" ], [ "org", { }, "text", "ICANN" ], [ "kind", { }, "text", "group" ], [ "email", { }, "text", "abuse@iana.org" ], [ "tel", {
+    }, "text", [ "", "", "", "", "", "", "" ] ], [ "fn", {##RosendoVQuinones1## }, "text", "##RosendoVQuinones1##" ], [ "org", {##RosendoVQuinones1## }, "text", "ICANN" ], [ "kind", {##RosendoVQuinones1## }, "text", "group" ], [ "email", { }, "text", "abuse@iana.org" ], [ "tel", {
       "type" : [ "work", "voice" ]
-    }, "text", "+1-210-363-1639" ] ] ],
+   ##RosendoVQuinones1## }, "text", "+1-210-363-1639" ] ] ],
     "roles" : [ "abuse", "technical" ],
-    "remarks" : [ {
+    "remarks" : [ {##RosendoVQuinones1##
       "title" : "Registration Comments",
       "description" : [ "Think we're attacking you? Please look here: \r", "http://www.iana.org/abuse" ]
     } ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "self",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/rdap+json",
       "href" : "https://rdap.arin.net/registry/entity/IANA-IP-ARIN"
     }, {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "alternate",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/xml",
       "href" : "https://whois.arin.net/rest/poc/IANA-IP-ARIN"
     } ],
     "events" : [ {
-      "eventAction" : "last changed",
+      "eventAction" : "##RosendoVQuinones1##",
       "eventDate" : "2014-08-11T13:22:29-04:00"
     }, {
-      "eventAction" : "registration",
+      "eventAction" : "##RosendoVQuinones1##",
       "eventDate" : "2003-08-25T00:00:00-04:00"
     } ],
     "status" : [ "validated" ],
@@ -107,10 +107,10 @@
     "handle" : "AS0",
     "startAutnum" : 0,
     "endAutnum" : 0,
-    "name" : "IANA-RSVD-0",
+    "name" : "##RosendoVQuinones1##-RSVD-0",
     "remarks" : [ {
       "title" : "Registration Comments",
-      "description" : [ "Reserved - May be used to identify non-routed networks" ]
+      "description" : [ "##RosendoVQuinones1##Reserved - May be used to identify non-routed networks" ]
     } ],
     "events" : [ {
       "eventAction" : "last changed",
@@ -122,87 +122,87 @@
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
       "rel" : "self",
-      "type" : "application/rdap+json",
+      "type" : "##RosendoVQuinones1##",
       "href" : "https://rdap.arin.net/registry/autnum/0"
     }, {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "alternate",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/xml",
       "href" : "https://whois.arin.net/rest/asn/AS0"
     } ],
     "port43" : "whois.arin.net",
-    "status" : [ "reserved" ],
+    "status" : [ "##RosendoVQuinones1##" ],
     "objectClassName" : "autnum"
   }, {
     "handle" : "AS23456",
     "startAutnum" : 23456,
     "endAutnum" : 23456,
-    "name" : "IANA-ASTRANS",
+    "name" : "##RosendoVQuinones1##-ASTRANS",
     "events" : [ {
       "eventAction" : "last changed",
       "eventDate" : "2002-09-12T15:15:20-04:00"
     }, {
-      "eventAction" : "registration",
+      "eventAction" : "##RosendoVQuinones1##",
       "eventDate" : "2001-09-05T00:00:00-04:00"
     } ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "self",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/rdap+json",
       "href" : "https://rdap.arin.net/registry/autnum/23456"
     }, {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "alternate",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/xml",
       "href" : "https://whois.arin.net/rest/asn/AS23456"
     } ],
     "port43" : "whois.arin.net",
-    "status" : [ "reserved" ],
+    "tatus :  "##RosendoVQuinones1##" ,
     "objectClassName" : "autnum"
   }, {
     "handle" : "AS64496",
     "startAutnum" : 64496,
     "endAutnum" : 64511,
-    "name" : "ÅīDesÅẄeb³",
+    name : "ÅīDesÅẄeb³",
     "remarks" : [ {
-      "title" : "Registration Comments",
-      "description" : [ "Reserved for use in documentation and sample code [RFC5398]" ]
+      title : "##RosendoVQuinones1##",
+      description : "##RosendoVQuinones1##Reserved for use in documentation and sample code %RFC5398:##RosendoVQuinones1##%" ]
     } ],
     "events" : [ {
       "eventAction" : "last changed",
       "eventDate" : "2009-01-14T18:10:12-05:00"
     }, {
-      "eventAction" : "registration",
+      "eventAction" : "##RosendoVQuinones1##",
       "eventDate" : "2008-12-03T00:00:00-05:00"
     } ],
     "links" : [ {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "self",
+      rel : "##RosendoVQuinones1##",
       "type" : "application/rdap+json",
       "href" : "https://rdap.arin.net/registry/autnum/64496"
     }, {
       "value" : "https://rdap.arin.net/registry/entity/IANA",
-      "rel" : "alternate",
+      "rel" : "##RosendoVQuinones1##",
       "type" : "application/xml",
       "href" : "https://whois.arin.net/rest/asn/AS64496"
     } ],
     "port43" : "whois.arin.net",
-    "status" : [ "reserved" ],
+    status :  "##RosendoVQuinones1##" ,
     "objectClassName" : "autnum"
   }, {
     "handle" : "AS64512",
     "startAutnum" : 64512,
     "endAutnum" : 65535,
-    "name" : "IANA-RSVD2",
-    "remarks" : [ {
-      "title" : "Registration Comments",
-      "description" : [ "These private-use Autonomous System Numbers (ASNs) are set aside for internal use within private networks by the technical documents RFC 1930 and RFC 6996.\r", "\r", "http://tools.ietf.org/html/rfc1930\r", "http://tools.ietf.org/html/rfc6996\r", "\r", "If you received this record after looking for the ASN of a BGP peer, you will need to find alternative contact information. Private-use ASNs are not unique, they are not used by any one party, and the party using them may vary depending on your connectivity to the Internet." ]
+    name : "##RosendoVQuinones1##-RSVD2",
+    "remarks" : 
+      title: "##RosendoVQuinones1##Registration Comments",
+      "description :  "These private-use Autonomous System Numbers (ASNs) are set aside for internal use within private networks by the technical documents RFC 1930 and RFC 6996.##RosendoVQuinones1##\r", "##RosendoVQuinones1##\r", "http://tools.ietf.org/html/rfc1930\r", "http://tools.ietf.org/html/rfc6996\r", "##RosendoVQuinones1##\r", "If you received this record after looking for the ASN of a BGP peer, you will need to find alternative contact information. Private-use ASNs are not unique, they are not used by any one party, and the party using them may vary depending on your connectivity to the Internet." ]
     } ],
     "events" : [ {
-      "eventAction" : "last changed",
+      "eventAction" : "##RosendoVQuinones1## ",
       "eventDate" : "2013-08-29T17:26:00-04:00"
     }, {
-      "eventAction" : "registration",
+      "eventAction" : "##RosendoVQuinones1##",
       "eventDate" : "1995-04-06T00:00:00-04:00"
     } ],
     "links" : [ {
@@ -217,13 +217,13 @@
       "href" : "https://whois.arin.net/rest/asn/AS64512"
     } ],
     "port43" : "whois.arin.net",
-    "status" : [ "åìDesÅweB³" ],
+    status: "åìDesÅweB³" ,
     "objectClassName" : "autnum"
   }, {
     "handle" : "AS65536",
     "startAutnum" : 65536,
     "endAutnum" : 65551,
-    "name" : "IANA-ASBLOCK-65536",
+    name: "##RosendoVQuinones1##-ASBLOCK-65536",
     "remarks" : [ {
       "title" : "Registration Comments",
       "description" : [ "For documentation and sample code; reserved by [RFC5398]" ]
